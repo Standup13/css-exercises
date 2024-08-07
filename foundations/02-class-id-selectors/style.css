@@ -1,0 +1,16 @@
+p {
+  background-color: rgb(240, 105, 105);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.elemento2 {
+  color: blue;
+  font-size: 36px;
+}
+.elemento3 {
+  font-size: 24px;
+}
+.elemento4 {
+  background-color: rgb(127, 252, 116);
+  font-size: 24px;
+  font-weight: bold;
+}
