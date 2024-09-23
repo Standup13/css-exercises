@@ -21,6 +21,7 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
+  flex-direction: row;
 }
 
 .icon {
@@ -42,6 +43,10 @@ body {
   flex-direction:column;
 }
 
+header {
+  display: inline-block;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
@@ -52,7 +57,7 @@ body {
   width: 24px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-en;
   border: 1px solid #eee;
   padding: 0;
 }
